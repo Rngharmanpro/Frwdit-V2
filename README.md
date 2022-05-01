@@ -6,7 +6,7 @@ Only Give Permission In your Telegram Personal Channel
 ```
 Please fork this repository then give star
 Made with Python3 and Pyrogram Library
-(C) @teamx69
+(C) @C9ISH
 Copyright permission under GNU GENERAL PUBLIC LICENSE
 ```
 
